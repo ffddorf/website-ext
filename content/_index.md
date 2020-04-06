@@ -1,78 +1,81 @@
 ---
-title: Home
+title: Freies WLAN in Düsseldorf
 sections:
   - type: heroblock
-    title: 'Hi, I''m Stackbit Exto Portfolio Theme.'
-    section_id: hero
+    title: Freies WLAN in Düsseldorf
+    section_id: intro
     component: hero_block.html
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
-  - type: portfolioblock
-    title: Recent Work
-    section_id: latest-projects
-    component: portfolio_block.html
-    subtitle: An optional subtitle of the section
-    layout_style: mosaic
-    num_projects_displayed: 6
-    view_all_text: View All
-    view_all_url: portfolio/index.html
+      Wir bauen ein freies Wifi-Netzwerk, über das du kostenfreien Zugang zum
+      Internet bekommen kannst.
+
+
+      Das Netzwerk kann von jedem genutzt werden, ohne Anmeldung. Und das an
+      immer mehr Orten.
+
+
+      Mach mit bei den Freifunkern und erweitere das Netzwerk mit deinen eigenen
+      Geräten.
+
+
+      <iframe src="https://player.vimeo.com/video/64814620" width="640"
+      height="360" frameborder="0" allow="autoplay; fullscreen"
+      allowfullscreen></iframe>
+  - type: heroblock
+    component: hero_block.html
+    title: Nutzen
+    content: >-
+      ## Verbinde dein Gerät mit dem freien WLAN
+
+
+      An vielen Orten in Düsseldorf kannst du dich mit deinem Gerät (Smartphone,
+      Laptop) mit dem offenen Netzwerk "Freifunk" verbinden. Nutze
+      die[Karte](https://map.freifunk-duesseldorf.de/)um zu sehen, wo das
+      Netzwerk verfügbar ist.
+    section_id: nutzen
   - type: servicesblock
-    title: What We Do
-    section_id: services
+    title: Mitmachen
+    section_id: mitmachen
     component: services_block.html
-    subtitle: An optional subtitle of the section
+    subtitle: ''
     serviceslist:
-      - title: Service Title
+      - title: Anleitung
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla tortor at, pulvinar orci.
-      - title: Service Title
+          Lies unsere Anleitung, wie du Schritt für Schritt einen eigenen
+          Freifunk-Knoten aufbauen kannst.
+
+
+          [Anleitung](https://freifunk-duesseldorf.de/anleitung)
+      - title: Kontakt
         content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius. 
-      - title: Service title
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-      - title: Service title
-        content: >-
-          Aliquam pulvinar, orci ac scelerisque tempus, felis leo sagittis
-          justo, sit amet condimentum lorem nibh vel quam. Duis consectetur
-          lorem ipsum, non efficitur urna viverra et.
-  - type: testimonialsblock
-    title: Testimonials
-    section_id: testimonials
-    component: testimonials_block.html
-    subtitle: An optional subtitle of the section
-    testimonialslist:
-      - author: John Doe
-        avatar: images/john_doe.jpg
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-      - author: Jane Roe
-        avatar: images/jane_roe.jpg
-        content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin, vel posuere justo laoreet.
-  - type: postsblock
-    title: Latest from the Blog
-    section_id: latest-posts
-    component: posts_block.html
-    subtitle: An optional subtitle of the section
-    num_posts_displayed: 2
-    actions:
-      - label: View Blog
-        url: blog/index.html
+          Wir laden dich zu unseren Treffen ein. Komm einfach vorbei und melde
+          dich im Forum an.
+
+
+          [Kontakt](https://freifunk-duesseldorf.de/kontakt)
   - type: contactblock
     title: Contact Us
     section_id: contact
     component: contact_block.html
     subtitle: An optional subtitle of the section
+  - type: heroblock
+    component: hero_block.html
+    title: Sponsoren
+    section_id: sponsoren
+    content: >-
+      <img src="/images/factory-campus.png" alt="Factory Campus Logo"
+      title="Factory Campus" style="height: 8rem">
+  - type: heroblock
+    component: hero_block.html
+    title: Kooperationspartner
+    section_id: kooperationspartner
+    content: >-
+      ![Landeshauptstadt Düsseldorf Logo](/images/stadt-duesseldorf.svg
+      "Landeshauptstadt Düsseldorf")
+
+
+      ![Freifunk Rheinland Logo](/images/ffrl-4751fc4a.svg "Freifunk Rheinland
+      e.V.")
 menu:
   main:
     name: Home
