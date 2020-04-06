@@ -7,15 +7,9 @@ sections:
     component: hero_block.html
     content: >-
       Wir bauen ein freies Wifi-Netzwerk, über das du kostenfreien Zugang zum
-      Internet bekommen kannst.
-
-
-      Das Netzwerk kann von jedem genutzt werden, ohne Anmeldung. Und das an
-      immer mehr Orten.
-
-
-      Mach mit bei den Freifunkern und erweitere das Netzwerk mit deinen eigenen
-      Geräten.
+      Internet bekommen kannst. Das Netzwerk kann von jedem genutzt werden, ohne
+      Anmeldung. Und das an immer mehr Orten. Mach mit bei den Freifunk und
+      erweitere das Netzwerk mit deinen eigenen Geräten!
 
 
       <iframe src="https://player.vimeo.com/video/64814620" width="640"
@@ -29,9 +23,9 @@ sections:
 
 
       An vielen Orten in Düsseldorf kannst du dich mit deinem Gerät (Smartphone,
-      Laptop) mit dem offenen Netzwerk "Freifunk" verbinden. Nutze
-      die[Karte](https://map.freifunk-duesseldorf.de/)um zu sehen, wo das
-      Netzwerk verfügbar ist.
+      Laptop) mit dem offenen Netzwerk "Freifunk" verbinden. Nutze die
+      [Karte](https://map.freifunk-duesseldorf.de/) um zu sehen, wo das Netzwerk
+      verfügbar ist.
     section_id: nutzen
   - type: servicesblock
     title: Mitmachen
@@ -53,11 +47,6 @@ sections:
 
 
           [Kontakt](https://freifunk-duesseldorf.de/kontakt)
-  - type: contactblock
-    title: Contact Us
-    section_id: contact
-    component: contact_block.html
-    subtitle: An optional subtitle of the section
   - type: heroblock
     component: hero_block.html
     title: Sponsoren
@@ -70,12 +59,12 @@ sections:
     title: Kooperationspartner
     section_id: kooperationspartner
     content: >-
-      ![Landeshauptstadt Düsseldorf Logo](/images/stadt-duesseldorf.svg
-      "Landeshauptstadt Düsseldorf")
+      <img src="/images/stadt-duesseldorf.svg" alt="Landeshauptstadt Düsseldorf
+      Logo" title="Landeshauptstadt Düsseldorf" style="height: 8rem">
 
 
-      ![Freifunk Rheinland Logo](/images/ffrl-4751fc4a.svg "Freifunk Rheinland
-      e.V.")
+      <img src="/images/ffrl-4751fc4a.svg" alt="Freifunk Rheinland Logo"
+      title="Freifunk Rheinland e.V." style="height: 8rem">
 menu:
   main:
     name: Home
