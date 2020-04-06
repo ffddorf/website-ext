@@ -1,17 +1,15 @@
-title: Stackbit Exto Theme
+title: Freifunk Düsseldorf
 baseURL: /
 params:
   color_scheme: light
   accent_color: pink
   header:
-    title: Exto
+    title: Freifunk Düsseldorf
     has_nav: true
+    logo_img: /images/freifunk-ddorf-229c545d.svg
   footer:
-    content: '&copy; Stackbit-Exto. All rights reserved.'
-    links:
-      - text: Made with Stackbit
-        url: 'https://www.stackbit.com'
-        new_window: true
+    content: Freifunk Düsseldorf e.V.
+    links: []
     has_social: true
 disableKinds:
   - RSS
