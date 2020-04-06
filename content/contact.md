@@ -1,8 +1,8 @@
 ---
-title: Contact
+title: Kontakt
 menu:
   main:
-    name: Contact
+    name: Kontakt
     weight: 5
 layout: contact
 ---
