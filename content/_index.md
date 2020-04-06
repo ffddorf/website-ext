@@ -67,7 +67,7 @@ sections:
       title="Freifunk Rheinland e.V." style="height: 8rem">
 menu:
   main:
-    name: Home
+    name: Start
     weight: 1
 layout: home
 ---
