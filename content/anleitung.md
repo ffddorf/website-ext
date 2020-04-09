@@ -6,8 +6,6 @@ menu:
     name: Anleitung
 layout: page
 ---
-# Anleitung
-
 Die Installation unserer Software halten wir so einfach wie möglich. Die Datei mit unserer Firmware kannst du an der selben Stelle hochladen, wo der Hersteller Updates für dein Gerät vorgesehen hat. Um Freifunk zu nutzen, musst du keine technischen Dinge einstellen.
 
 Wenn du deinen Rechner schon einmal selbst an ein Netzwerk angeschlossen hast, solltest du mit unserer Anleitung zurecht kommen. Wenn nicht, dann bringe bitte deinen Router und deinen Laptop zu einem unserer Treffen mit oder frage uns im Slack-Chat!
@@ -43,11 +41,11 @@ Nun kommt es auf den Hersteller an, wie genau man die Firmware-Datei einspielen 
 
 ## Einrichtung
 
-Nun befindet sich das Gerät im Config-Mode und erwartet einige Angaben, bevor es in Betrieb gehen kann. Als erstes verbinde es erneut mit deinem Rechner, in dem du das Patchkabel an einem Ende herausziehst und wieder einsteckst. Dadurch aktualisiert sich die Netzwerkverbindung an deinem Rechner. Dann besuche folgende Adresse:[http://192.168.1.1](http://192.168.1.1/)
+Nun befindet sich das Gerät im Config-Mode und erwartet einige Angaben, bevor es in Betrieb gehen kann. Als erstes verbinde es erneut mit deinem Rechner, in dem du das Patchkabel an einem Ende herausziehst und wieder einsteckst. Dadurch aktualisiert sich die Netzwerkverbindung an deinem Rechner. Dann besuche folgende Adresse: [http://192.168.1.1](http://192.168.1.1/)
 
 Fülle das erscheinende Formular aus. Die Angaben sind freiwillig, denn sie landen öffentlich im Netz! Wir hoffen aber, dass du einen Ort der Aufstellung und eine Kontakt-Info hinterlässt, damit Freifunker aus deiner Community dich erreichen, wenn sie das Netzwerk mit dir zusammen erweitern wollen oder dich wegen Umbaumaßnahmen erreichen müssen.
 
-**Name dieses Knotens** ist deine freie Wahl. Am besten, du hälst dich an eine Struktur. Wir empfehlen dir "Location-Raum-Nummer" oder ähnliches. Beispiele: "Poststraße-26-Dach", " Eris-Tempel-001", "Bolzplatz-Nord".
+**Name dieses Knotens** ist deine freie Wahl. Am besten, du hältst dich an eine Struktur. Wir empfehlen dir "Location-Raum-Nummer" oder ähnliches. Beispiele: "Poststraße-26-Dach", " Eris-Tempel-001", "Bolzplatz-Nord".
 
 **Mesh-VPN** möchtest du wahrscheinlich aktivieren. Das bedeutet, dass dein Knoten über das lokale Netzwerk einen Tunnel zu einem unserer Server aufbaut. Über diesen verbindet sich deine Location mit dem Freifunk-Netzwerk und dem Rest des Internets. Wenn das Gerät lediglich zur Erweiterung deines lokalen Netzwerks dienen soll, dann benötigst du diese Funktion nicht unbedingt.
 
