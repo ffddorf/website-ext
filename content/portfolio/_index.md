@@ -1,10 +1,10 @@
 ---
 title: Projekte
-subtitle: ''
+subtitle: ""
 layout_style: tiles
 menu:
   main:
-    name: Projekte
-    weight: 2
+    name: ""
+    weight: ""
 layout: portfolio
 ---
