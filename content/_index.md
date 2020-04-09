@@ -12,9 +12,7 @@ sections:
       erweitere das Netzwerk mit deinen eigenen Geräten!
 
 
-      <iframe src="https://player.vimeo.com/video/64814620" width="640"
-      height="360" frameborder="0" allow="autoplay; fullscreen"
-      allowfullscreen></iframe>
+      <iframe src="https://player.vimeo.com/video/64814620" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
   - type: heroblock
     component: hero_block.html
     title: Nutzen
@@ -22,16 +20,13 @@ sections:
       ## Verbinde dein Gerät mit dem freien WLAN
 
 
-      An vielen Orten in Düsseldorf kannst du dich mit deinem Gerät (Smartphone,
-      Laptop) mit dem offenen Netzwerk "Freifunk" verbinden. Nutze die
-      [Karte](https://map.freifunk-duesseldorf.de/) um zu sehen, wo das Netzwerk
-      verfügbar ist.
+      An vielen Orten in Düsseldorf kannst du dich mit deinem Gerät (Smartphone, Laptop) mit dem offenen Netzwerk "Freifunk" verbinden. Nutze die [Karte](https://map.freifunk-duesseldorf.de/) um zu sehen, wo das Netzwerk verfügbar ist.
     section_id: nutzen
   - type: servicesblock
     title: Mitmachen
     section_id: mitmachen
     component: services_block.html
-    subtitle: ''
+    subtitle: ""
     serviceslist:
       - title: Anleitung
         content: >-
@@ -39,21 +34,20 @@ sections:
           Freifunk-Knoten aufbauen kannst.
 
 
-          [Anleitung](https://freifunk-duesseldorf.de/anleitung)
+          [Anleitung](/anleitung)
       - title: Kontakt
         content: >-
           Wir laden dich zu unseren Treffen ein. Komm einfach vorbei und melde
           dich im Forum an.
 
 
-          [Kontakt](https://freifunk-duesseldorf.de/kontakt)
+          [Kontakt](/kontakt)
   - type: heroblock
     component: hero_block.html
     title: Sponsoren
     section_id: sponsoren
-    content: >-
-      <img src="/images/factory-campus.png" alt="Factory Campus Logo"
-      title="Factory Campus" style="height: 8rem">
+    content: '<img src="/images/factory-campus.png" alt="Factory Campus Logo"
+      title="Factory Campus" style="height: 8rem">'
   - type: heroblock
     component: hero_block.html
     title: Kooperationspartner
@@ -63,8 +57,7 @@ sections:
       Logo" title="Landeshauptstadt Düsseldorf" style="height: 8rem">
 
 
-      <img src="/images/ffrl-4751fc4a.svg" alt="Freifunk Rheinland Logo"
-      title="Freifunk Rheinland e.V." style="height: 8rem">
+      <img src="/images/ffrl-4751fc4a.svg" alt="Freifunk Rheinland Logo" title="Freifunk Rheinland e.V." style="height: 8rem">
 menu:
   main:
     name: Start
