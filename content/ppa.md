@@ -1,10 +1,8 @@
 ---
 title: PPA
-subtitle: Pico Peering Agreement
+subtitle: Pico Peering Agreement v1.0
 layout: page
 ---
-# Pico Peering Agreement v1.0
-
 ## Präambel
 
 Mittlerweile gibt es viele Community-Netzwerke, diese sind jedoch geographisch und sozial voneinander getrennt und bilden kein zusammenhängendes Netzwerk. Dieses Dokument ist ein Ansatz (Versuch), diese Netzwerkinseln miteinander zu verbinden, indem es die minimale, grundsätzliche Vorlage für ein "Peering"-Abkommen (Verbindungsabkommen, Bündnisabkommen) zwischen den Eigentümern individueller Netzwerkknoten liefert: das PicoPeeringAgreement (PPA).
