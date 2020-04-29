@@ -6,21 +6,23 @@ menu:
     name: Anleitung
 layout: page
 ---
-Die Installation unserer Software halten wir so einfach wie möglich. Die Datei mit unserer Firmware kannst du an der selben Stelle hochladen, wo der Hersteller Updates für dein Gerät vorgesehen hat. Um Freifunk zu nutzen, musst du keine technischen Dinge einstellen.
+Die Installation unserer Software halten wir so einfach wie möglich. Die Datei mit unserer **Firmware** kannst du an der selben Stelle hochladen, wo der Hersteller Updates für dein Gerät vorgesehen hat. Um Freifunk zu nutzen, musst du keine technischen Dinge einstellen.
 
-Wenn du deinen Rechner schon einmal selbst an ein Netzwerk angeschlossen hast, solltest du mit unserer Anleitung zurecht kommen. Wenn nicht, dann bringe bitte deinen Router und deinen Laptop zu einem unserer Treffen mit oder frage uns im Slack-Chat!
+Wenn du deinen Rechner schon einmal selbst an ein Netzwerk angeschlossen hast, kommst du vermutlich mit unserer Anleitung zurecht kommen. Wenn nicht, dann bringe bitte deinen Router und deinen Laptop zu einem unserer Treffen mit oder frage uns im Slack-Chat!
+
+Wir haben uns zum Aufbau eines gemeinsamen Netzwerks auf das [**Pico Peering Agreement**](/ppa) geeinigt. Bitte **lies es durch** und mache hier nur dann weiter, wenn du die Bedingungen akzeptierst!
 
 ## Gerät besorgen
 
-Erst einmal benötigst du ein kompatibles Gerät. Handelsübliche WLAN-Router für 20 bis 30 Euro reichen aus, um einen Freifunk-Knoten zu betreiben. Aber bevor du nun in den Laden gehst und Geld ausgibst, schau einmal in die Liste der Downloads, welche Modelle mit unserer Software funktionieren.
+Erst einmal benötigst du ein kompatibles Gerät. Handelsübliche WLAN-Router für 20 bis 30 Euro reichen aus, um einen Freifunk-Knoten zu betreiben. Aber bevor du nun in den Laden gehst und Geld ausgibst, schau einmal in die **Liste der Downloads**, welche Modelle mit unserer Software funktionieren.
 
-Jedes Modell gibt es in verschiedenen Revisionen. Die aktuellen Revisionen werden meistens unterstützt. Klicke auf den den richtigen Knopf und speichere die Firmware ab, dann geht's unten weiter.
+Jedes Modell gibt es in verschiedenen Revisionen. Die jeweils aktuelle Revision wird meistens unterstützt, aber es gibt auch Ausnahmen. Klicke auf den den richtigen Knopf und speichere die Firmware ab, dann geht's unten weiter.
 
-Falls du ein vorbereitetes Gerät bekommen hast, das du nur noch einrichten musst, dann überspringe die Installation und gehe direkt zur Einrichtung.
+Falls du ein **vorbereitetes Gerät** bekommen hast, das du nur noch einrichten musst, dann überspringe die Installation und gehe direkt zur Einrichtung.
 
 ## Installation
 
-Mit unserer Firmware wird dein WLAN-Router zu einem Freifunk-Knoten umprogrammiert. Die Installation funktioniert genau so, wie eine Aktualisierung der Firmware durch eine Datei des Herstellers. Mit unserer Firmware wird das Gerät umprogrammiert.
+Mit unserer Firmware wird dein WLAN-Router zu einem Freifunk-Knoten umprogrammiert. Die Installation funktioniert genau so, wie eine Aktualisierung der Firmware durch eine Datei des Herstellers. 
 
 Es gibt nicht nur viele Modelle, sondern bei den meisten davon auch unterschiedliche Revisionen. Da diese recht unterschiedlich ausfallen können, benötigst du die genau passende Firmware-Datei für deinen Router. Auf der Unterseite deines Routers befindet sich ein Aufkleber mit der genauen Bezeichnung. Dort steht zum Beispiel "TP-Link WR-841ND Rev. 9".
 
