@@ -26,7 +26,7 @@ Es gibt nicht nur viele Modelle, sondern bei den meisten davon auch unterschiedl
 
 Besuche nun die Download-Seite und lade die passende Firmware-Datei herunter.
 
-Schließe den Router mit dem Netzteil an eine Steckdose an und verbinde ihn mit dem grauen Patchkabel zu deinem Rechner. Am Router kommt das Kabel in die Buchse 1 (gelb). Wenn dein Laptop keine passende Buchse hat, brauchst du noch einen USB-Netzwerkadapter.
+Schließe den Router mit dem Netzteil an eine Steckdose an und verbinde ihn mit dem grauen Patch-Kabel zu deinem Rechner. Am Router kommt das Kabel in die Buchse 1 (gelb). Wenn dein Laptop keine passende Buchse hat, brauchst du noch einen USB-Netzwerkadapter.
 
 Nun kommt es auf den Hersteller an, wie genau man die Firmware-Datei einspielen muss. Dazu gibt es normalerweise im Handbuch eine Anleitung. Bei TP-Link geht man folgendermaßen vor:
 
@@ -41,7 +41,7 @@ Nun kommt es auf den Hersteller an, wie genau man die Firmware-Datei einspielen 
 
 ## Einrichtung
 
-Nun befindet sich das Gerät im Config-Mode und erwartet einige Angaben, bevor es in Betrieb gehen kann. Als erstes verbinde es erneut mit deinem Rechner, in dem du das Patchkabel an einem Ende herausziehst und wieder einsteckst. Dadurch aktualisiert sich die Netzwerkverbindung an deinem Rechner. Dann besuche folgende Adresse: [http://192.168.1.1](http://192.168.1.1/)
+Nun befindet sich das Gerät im Config-Mode und erwartet einige Angaben, bevor es in Betrieb gehen kann. Als erstes verbinde es erneut mit deinem Rechner, in dem du das Patch-Kabel an einem Ende herausziehst und wieder einsteckst. Dadurch aktualisiert sich die Netzwerkverbindung an deinem Rechner. Dann besuche folgende Adresse: [http://192.168.1.1](http://192.168.1.1/)
 
 Fülle das erscheinende Formular aus. Die Angaben sind freiwillig, denn sie landen öffentlich im Netz! Wir hoffen aber, dass du einen Ort der Aufstellung und eine Kontakt-Info hinterlässt, damit Freifunker aus deiner Community dich erreichen, wenn sie das Netzwerk mit dir zusammen erweitern wollen oder dich wegen Umbaumaßnahmen erreichen müssen.
 
@@ -49,13 +49,13 @@ Fülle das erscheinende Formular aus. Die Angaben sind freiwillig, denn sie land
 
 **Mesh-VPN** möchtest du wahrscheinlich aktivieren. Das bedeutet, dass dein Knoten über das lokale Netzwerk einen Tunnel zu einem unserer Server aufbaut. Über diesen verbindet sich deine Location mit dem Freifunk-Netzwerk und dem Rest des Internets. Wenn das Gerät lediglich zur Erweiterung deines lokalen Netzwerks dienen soll, dann benötigst du diese Funktion nicht unbedingt.
 
-**Knoten auf der Karte anzeigen** ermöglicht die Anzeige deines Knotens auf unserer[Karte.](http://map.freifunk-duesseldorf.de/)Dazu gib die Koordinaten ein. Diese findest du beispielsweise bei [Google Maps](https://www.google.de/maps), wenn du auf die Stelle drei Mal schnell hintereinander klickst.
+**Knoten auf der Karte anzeigen** ermöglicht die Anzeige deines Knotens auf unserer [Karte.](http://map.freifunk-duesseldorf.de/) Dazu gib die Koordinaten ein. Tipp: Auf unserer Karte gibt es ein Pick-Werkzeug 📌 dafür.
 
 In dem Feld **Kontakt** trage bitte deine Mail-Adresse ein. Wenn du nicht deine private Anschrift verwenden möchtest, empfehlen wir dir die Verwendung einer weiteren Mailbox nur für diesen Zweck.
 
 Es gibt noch ein paar mehr Felder und Funktionen, die wir hier nicht vollständig aufzählen möchten. Diese sollten selbsterklärend sein oder nur für erfahrene Anwender interessant. Wenn du unten angekommen bist und zufrieden mit den Eingaben, dann klicke auf "Fertig".
 
-Nun startet dein Knoten neu. Das Patchkabel kannst du entfernen oder dazu verwenden, den Knoten mit der WAN-Buchse (blau) ans Netzwerk zu verbinden. Das hat aber nur einen Zweck, wenn du im vorherigen Schritt das Mesh-VPN aktiviert hast.
+Nun startet dein Knoten neu. Das Patch-Kabel kannst du entfernen oder dazu verwenden, den Knoten mit der WAN-Buchse (blau) ans Netzwerk zu verbinden. Das hat aber nur einen Zweck, wenn du im vorherigen Schritt das Mesh-VPN aktiviert hast.
 
 Fertig! Dein Knoten ist nun einsatzbereit. Solltest du einmal etwas ändern wollen, dann drücke so lange auf den Reset-Knopf des Knotens, bis er neu startet. Dann befindet sich dieser wieder im Config-Mode und du kannst alle Einstellungen verändern.
 
@@ -65,4 +65,4 @@ Den Freifunk-Knoten baust du am besten da auf, wo er gut erreichbar ist. Das ist
 
 Freifunk-Knoten, die zu der selben Community gehören, verbinden sich auch immer per WLAN. So reichen sie wie in einer Eimerkette die Daten von Punkt zu Punkt weiter. Wer mag, kann mit größeren und speziellen Antennen diese Verbindungen verbessern und die Reichweite erhöhen.
 
-Wir freuen uns, wenn du als neuer Freifunker zu unseren [Treffen](https://freifunk-duesseldorf.de/kontakt) kommst.
+Wir freuen uns, wenn du als neue Freifunker*in zu unseren [Treffen](https://freifunk-duesseldorf.de/kontakt) kommst.
