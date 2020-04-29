@@ -24,4 +24,4 @@ Wir sind eine starke Gemeinschaft von Aktiven, die sich gegenseitig helfen und g
 
 Wir sind vom Finanzamt als gemeinnützige Organisation anerkannt und können steuerlich abzugsfähig Spenden akzeptieren. Dabei hilft uns die Plattform Betterplace.org bei der Abwicklung.
 
-[Jetzt spenden!](https://freifunk-duesseldorf.de/spenden)
+[Jetzt spenden!](/spenden)
