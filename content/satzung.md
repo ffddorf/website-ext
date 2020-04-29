@@ -3,9 +3,7 @@ title: Satzung
 subtitle: Satzung des Vereins
 layout: page
 ---
-Satzung
-
-des Freifunk Düsseldorf e.V., Stand 17.05.2016
+Stand 17.05.2016
 
 # § 1 Name und Sitz des Vereins
 
