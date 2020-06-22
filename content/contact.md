@@ -16,13 +16,11 @@ Im Forum organisieren wir das Netz in Düsseldorf und tauschen uns mit Freifunke
 
 ## Slack
 
-![Slack Badge - Zahl der Nutzer online/gesamt](https://freifunk-slackin.herokuapp.com/badge.svg)
-
 Chatte mit uns, den Aktiven und den Neulingen!
 
 Slack funktioniert erst nach Anmeldung. Auf der folgenden Seite kannst du deine Mail-Adresse eintragen, zu der wir dir einen Aktivierungs-Code schicken.
 
-[Zum Slack](https://freifunk-slackin.herokuapp.com/)
+[Zum Slack](https://join.slack.com/t/freifunk/shared_invite/zt-eopeubzr-BzfWY55u1KpZaTKcmgS00w)
 
 ## Treffen
 
