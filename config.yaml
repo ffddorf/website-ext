@@ -12,22 +12,7 @@ params:
     links: []
     has_social: true
 menu:
-  main:
-    - name: Start
-      url: /
-      identifier: start
-    - identifier: kontakt
-      name: Kontakt
-      url: /contact/
-    - identifier: anleitung
-      name: Anleitung
-      url: /anleitung/
-    - identifier: news
-      name: News
-      url: /blog/
-    - identifier: verein
-      name: Verein
-      url: /verein/
+  main: []
 disableKinds:
   - RSS
   - taxonomy
