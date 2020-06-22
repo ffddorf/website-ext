@@ -41,7 +41,7 @@ sections:
           dich im Forum an.
 
 
-          [Kontakt](/kontakt)
+          [Kontakt](/contact)
   - type: heroblock
     component: hero_block.html
     title: Sponsoren
