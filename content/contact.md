@@ -30,12 +30,6 @@ Freifunker aus Düsseldorf verlinken hier Neuigkeiten aus dem Forum und retweete
 
 [Zur Timeline](https://twitter.com/ffddorf)
 
-## Mail
-
-[kontakt@freifunk-duesseldorf.de](mailto:kontakt@freifunk-duesseldorf.de)
-
-Gerne kannst du uns auch eine Mail schicken. Zwei von uns schauen regelmäßig in die Box und melden sich alsbald bei dir.
-
 ## Telefon
 
 Wir sind ansprechbar.
@@ -51,3 +45,11 @@ Wir sind Teil einer Bewegung.
 Allgemeine Informationen zu Freifunk und Neuigkeiten aus den Communities findest du im [Blog](https://freifunk.net/). Dokumentation zum Projekt sammeln wir Community-übergreifend im [Wiki](https://wiki.freifunk.net/).
 
 Freifunk Düsseldorf wird gefördert durch den [Freifunk Rheinland e.V.](https://freifunk-rheinland.net/) in Form von Server-Betrieb und Vernetzungsarbeit.
+
+## Mail
+
+[kontakt@freifunk-duesseldorf.de](mailto:kontakt@freifunk-duesseldorf.de)
+
+Zwei von uns schauen regelmäßig in die Box und melden sich alsbald bei dir.
+
+Über folgendes Formular kannst du uns auch von hier eine Mail schicken:
