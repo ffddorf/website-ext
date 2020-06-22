@@ -4,3 +4,8 @@ command = "./stackbit-build.sh"
 
   [build.environment]
   HUGO_VERSION = "0.47"
+
+[[redirects]]
+  from = "/download"
+  to = "https://firmware.freifunk-duesseldorf.de/"
+  status = 301
