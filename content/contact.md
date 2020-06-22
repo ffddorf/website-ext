@@ -58,6 +58,6 @@ Rufe uns an und stelle deine Fragen. Meistens geht eine Mailbox dran, also gib u
 
 Wir sind Teil einer Bewegung.
 
-Allgemeine Informationen zu Freifunk und Neuigkeiten aus den Communities findest du im[Blog.](https://freifunk.net/)Dokumentation zum Projekt sammeln wir community-übergreifend im [Wiki.](https://wiki.freifunk.net/)
+Allgemeine Informationen zu Freifunk und Neuigkeiten aus den Communities findest du im [Blog](https://freifunk.net/). Dokumentation zum Projekt sammeln wir community-übergreifend im [Wiki](https://wiki.freifunk.net/).
 
 Freifunk Düsseldorf wird gefördert durch den [Freifunk Rheinland e.V.](https://freifunk-rheinland.net/) in Form von Server-Betrieb und Vernetzungsarbeit.
