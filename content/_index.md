@@ -8,7 +8,7 @@ sections:
     content: >-
       Wir bauen ein freies Wifi-Netzwerk, über das du kostenfreien Zugang zum
       Internet bekommen kannst. Das Netzwerk kann von jedem genutzt werden, ohne
-      Anmeldung. Und das an immer mehr Orten. Mach mit bei den Freifunk und
+      Anmeldung. Und das an immer mehr Orten. Mach mit bei Freifunk und
       erweitere das Netzwerk mit deinen eigenen Geräten!
 
 
@@ -20,7 +20,7 @@ sections:
       ## Verbinde dein Gerät mit dem freien WLAN
 
 
-      An vielen Orten in Düsseldorf kannst du dich mit deinem Gerät (Smartphone, Laptop) mit dem offenen Netzwerk "Freifunk" verbinden. Nutze die [Karte](https://map.freifunk-duesseldorf.de/) um zu sehen, wo das Netzwerk verfügbar ist.
+      An vielen Orten in Düsseldorf kannst du dein Smartphone und deinen Computer mit dem offenen Netzwerk "Freifunk" verbinden. Nutze die [Karte](https://map.freifunk-duesseldorf.de/) um zu sehen, wo das Netzwerk verfügbar ist.
     section_id: nutzen
   - type: servicesblock
     title: Mitmachen
@@ -30,15 +30,15 @@ sections:
     serviceslist:
       - title: Anleitung
         content: >-
-          Lies unsere Anleitung, wie du Schritt für Schritt einen eigenen
-          Freifunk-Knoten aufbauen kannst.
+          Lies unsere Anleitung und erfahre, wie du Schritt für Schritt einen
+          eigenen Freifunk-Knoten aufbauen kannst.
 
 
           [Anleitung](/anleitung)
       - title: Kontakt
         content: >-
-          Wir laden dich zu unseren Treffen ein. Komm einfach vorbei und melde
-          dich im Forum an.
+          Wir laden dich herzlich zu unseren Treffen ein! Komm einfach vorbei
+          und bleibe mit uns online in Verbindung.
 
 
           [Kontakt](/contact)
@@ -54,7 +54,7 @@ sections:
     section_id: kooperationspartner
     content: >-
       <img src="/images/stadt-duesseldorf.svg" alt="Landeshauptstadt Düsseldorf
-      Logo" title="Landeshauptstadt Düsseldorf" style="height: 4rem">
+      Logo" title="Landeshauptstadt Düsseldorf" style="width: 8rem">
 
 
       <img src="/images/ffrl-4751fc4a.svg" alt="Freifunk Rheinland Logo" title="Freifunk Rheinland e.V." style="height: 8rem">
