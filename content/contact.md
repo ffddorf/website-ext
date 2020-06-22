@@ -42,7 +42,7 @@ Wir sind ansprechbar.
 
 [0211 74951760](tel:+4921174951760)
 
-Rufe uns an und stelle deine Fragen. Meistens geht eine Mailbox dran, also gib uns bitte deine Nummer. Wir melden uns bei dir!
+Rufe uns an und stelle deine Fragen. Es geht eine Mailbox dran, wir melden uns bei dir!
 
 ## freifunk.net
 
