@@ -10,7 +10,7 @@ layout: contact
 
 Im Freifunk Forum haben wir eine eigene Kategorie.
 
-Im Forum organisieren wir das Netz in Düsseldorf und tauschen uns mit Freifunkern aus anderen Communities aus. Dort kannst du jetzt deine Frage stellen und sehen, was uns gerade so beschäftigt. Es gibt dort Tipps für Hardware und Ankündigungen für Events. Melde dich an und du bleibst auf dem Laufenden!
+Hier kannst du jetzt deine Frage stellen und sehen, was uns gerade so beschäftigt. Es gibt Tipps für Hardware und Ankündigungen für Events. Melde dich an und du bleibst auf dem Laufenden!
 
 [Zum Forum](https://forum.freifunk.net/c/community/dusseldorf)
 
@@ -21,14 +21,6 @@ Chatte mit uns, den Aktiven und den Neulingen!
 Slack funktioniert erst nach Anmeldung. Auf der folgenden Seite kannst du deine Mail-Adresse eintragen, zu der wir dir einen Aktivierungs-Code schicken.
 
 [Zum Slack](https://join.slack.com/t/freifunk/shared_invite/zt-eopeubzr-BzfWY55u1KpZaTKcmgS00w)
-
-## Treffen
-
-Wir veranstalten am zweiten Montag eines Monats ab 19 Uhr ein Meetup.
-
-Einmal im Monat beschäftigen wir uns mit Themen, die für die Freifunk-Community von Bedeutung sind. Es gibt interessante Vorträge und eine Möglichkeit für Aktive und Neulinge sich auszutauschen und zu vernetzen. Der Factory Campus sponsert dafür die Räumlichkeiten.
-
-[Zum Meetup](https://www.meetup.com/freifunk-duesseldorf/)
 
 ## Twitter
 
@@ -56,6 +48,6 @@ Rufe uns an und stelle deine Fragen. Meistens geht eine Mailbox dran, also gib u
 
 Wir sind Teil einer Bewegung.
 
-Allgemeine Informationen zu Freifunk und Neuigkeiten aus den Communities findest du im [Blog](https://freifunk.net/). Dokumentation zum Projekt sammeln wir community-übergreifend im [Wiki](https://wiki.freifunk.net/).
+Allgemeine Informationen zu Freifunk und Neuigkeiten aus den Communities findest du im [Blog](https://freifunk.net/). Dokumentation zum Projekt sammeln wir Community-übergreifend im [Wiki](https://wiki.freifunk.net/).
 
 Freifunk Düsseldorf wird gefördert durch den [Freifunk Rheinland e.V.](https://freifunk-rheinland.net/) in Form von Server-Betrieb und Vernetzungsarbeit.
