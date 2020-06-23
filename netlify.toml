@@ -9,3 +9,8 @@ command = "./stackbit-build.sh"
   from = "/download"
   to = "https://firmware.freifunk-duesseldorf.de/"
   status = 301
+
+[[redirects]]
+  from = "/kontakt"
+  to = "/contact"
+  status = 301
