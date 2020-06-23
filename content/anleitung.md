@@ -73,4 +73,4 @@ Den Freifunk-Knoten baust du am besten da auf, wo er gut erreichbar ist. Das ist
 
 Freifunk-Knoten, die zu der selben Community gehören, verbinden sich auch immer per WLAN. So reichen sie wie in einer Eimerkette die Daten von Punkt zu Punkt weiter. Wer mag, kann mit größeren und speziellen Antennen diese Verbindungen verbessern und die Reichweite erhöhen.
 
-Wir freuen uns, wenn du als neue Freifunker*in zu unseren [Treffen](https://freifunk-duesseldorf.de/kontakt) kommst.
+Wir freuen uns, wenn du als neue Freifunker*in zu unseren [Treffen](https://freifunk-duesseldorf.de/contact) kommst.
