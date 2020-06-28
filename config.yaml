@@ -9,7 +9,13 @@ params:
     logo_img: /images/freifunk-ddorf-229c545d.svg
   footer:
     content: Freifunk Düsseldorf e.V.
-    links: []
+    links:
+      - new_window: false
+        text: Impressum
+        url: /impressum/
+      - new_window: false
+        text: Pico Peering Agreement
+        url: /ppa/
     has_social: true
 menu:
   main: []
