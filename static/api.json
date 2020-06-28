@@ -1,0 +1,99 @@
+{
+    "name": "Freifunk Düsseldorf",
+    "url": "https://freifunk-duesseldorf.de",
+    "location": {
+      "city": "Düsseldorf",
+      "country": "DE",
+      "lat": 51.225556,
+      "lon": 6.782778,
+      "address": {
+        "Name": "Freifunk Düsseldorf e.V.",
+        "Street": "Erkrather Str. 401",
+        "Zipcode": "40231"
+      }
+    },
+    "contact": {
+      "email": "kontakt@freifunk-duesseldorf.de",
+      "phone": "+49 211 74951760",
+      "facebook": "https://www.facebook.com/freifunkddorf",
+      "twitter": "@ffddorf"
+    },
+    "state": {
+      "focus": [
+        "infrastructure/backbone",
+        "Public Free Wifi",
+        "Social Community Building",
+        "Local services and content",
+        "Free internet access"
+      ],
+      "lastchange": "2020-06-28T10:13:57.655Z"
+    },
+    "services": [
+      {
+        "serviceName": "Jitsi Meet",
+        "serviceDescription": "video meetings",
+        "externalUri": "https://jitsi.freifunk-duesseldorf.de/"
+      }
+    ],
+    "feeds": [
+      {
+        "name": "Blog",
+        "category": "blog",
+        "type": "RSS",
+        "url": "https://blog.freifunk-duesseldorf.de/feed"
+      }
+    ],
+    "nodeMaps": [
+      {
+        "url": "https://map.freifunk-duesseldorf.de/",
+        "technicalType": "meshviewer",
+        "mapType": "geographical"
+      }
+    ],
+    "support": {
+      "donations": {
+        "campaigns": [
+          {
+            "provider": "betterplace",
+            "projectid": "54554"
+          }
+        ]
+      }
+    },
+    "techDetails": {
+      "firmware": {
+        "name": "Gluon",
+        "url": "https://firmware.freifunk-duesseldorf.de/",
+        "docs": "https://freifunk-duesseldorf.de/anleitung/",
+        "vpnaccess": "fwimage"
+      },
+      "networks": {
+        "ipv6": [
+          {
+            "network": "2a03:2260:40:40::/64"
+          },
+          {
+            "network": "2001:678:b7c::/48"
+          }
+        ],
+        "ipv4": [
+          {
+            "network": "45.151.166.0/24"
+          },
+          {
+            "network": "10.40.0.0/19"
+          }
+        ]
+      },
+      "routing": [
+        "batman-adv"
+      ],
+      "updatemode": [
+        "autoupdate"
+      ],
+      "legals": [
+        "institutions"
+      ]
+    },
+    "api": "0.4.14"
+  }
