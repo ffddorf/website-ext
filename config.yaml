@@ -16,6 +16,9 @@ params:
       - new_window: false
         text: Pico Peering Agreement
         url: /ppa/
+      - new_window: true
+        text: Status
+        url: https://status.freifunk-duesseldorf.de/
     has_social: true
 menu:
   main: []
