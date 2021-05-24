@@ -1,7 +1,7 @@
 title: Freifunk Düsseldorf
 baseURL: /
 params:
-  color_scheme: light
+  color_scheme: dark
   accent_color: pink
   header:
     title: Freifunk Düsseldorf
