@@ -46,12 +46,12 @@ sections:
     component: hero_block.html
     title: Sponsoren
     section_id: sponsoren
-    content: >-
+    content: >
       <img src="/images/factory-campus.png" alt="Factory Campus Logo"
       title="Factory Campus" style="height: 8rem">
 
 
-      ![Bürgerstiftung Düsseldorf Logo](/images/buergerstiftung_ddorf.svg "Bürgerstiftung Düsseldorf")
+      <img src="/images/buergerstiftung_ddorf.svg" alt="Bürgerstiftung Düsseldorf Logo" title="Bürgerstiftung Düsseldorf" style="height: 8rem">
   - type: heroblock
     component: hero_block.html
     title: Kooperationspartner
