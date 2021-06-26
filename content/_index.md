@@ -49,9 +49,13 @@ sections:
     content: >
       <img src="/images/factory-campus.png" alt="Factory Campus Logo"
       title="Factory Campus" style="height: 8rem">
-
-
-      <img src="/images/buergerstiftung_ddorf.svg" alt="Bürgerstiftung Düsseldorf Logo" title="Bürgerstiftung Düsseldorf" style="height: 8rem">
+  - type: heroblock
+    component: hero_block.html
+    title: Gefördert durch
+    section_id: foerderer
+    content: >
+      <img src="/images/buergerstiftung_ddorf.svg" alt="Bürgerstiftung
+      Düsseldorf Logo" title="Bürgerstiftung Düsseldorf" style="height: 8rem">
   - type: heroblock
     component: hero_block.html
     title: Kooperationspartner
