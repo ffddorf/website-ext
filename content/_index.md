@@ -56,6 +56,9 @@ sections:
     content: >
       <img src="/images/buergerstiftung_ddorf.svg" alt="Bürgerstiftung
       Düsseldorf Logo" title="Bürgerstiftung Düsseldorf" style="height: 8rem">
+
+      <img src="/images/stadtsparkasse.png" alt="Stadtsparkasse
+      Düsseldorf Logo" title="Stadtsparkasse Düsseldorf" style="height: 8rem">
   - type: heroblock
     component: hero_block.html
     title: Kooperationspartner
