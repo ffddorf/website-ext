@@ -65,8 +65,7 @@ sections:
     section_id: kooperationspartner
     content: >-
       <img src="/images/stadt-duesseldorf.svg" alt="Landeshauptstadt Düsseldorf
-      Logo" title="Landeshauptstadt Düsseldorf" style="width: 8rem">
-
+      Logo" title="Landeshauptstadt Düsseldorf" style="height: 6rem">
 
       <img src="/images/ffrl-4751fc4a.svg" alt="Freifunk Rheinland Logo" title="Freifunk Rheinland e.V." style="height: 8rem">
 menu:
