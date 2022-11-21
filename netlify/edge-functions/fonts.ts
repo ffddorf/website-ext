@@ -8,7 +8,6 @@ export default async (
 ): Promise<Response> => {
   const { searchParams } = new URL(request.url);
   const url = `https://fonts.googleapis.com/css?${searchParams.toString()}`;
-  console.log("going to:", url);
   const resp = await fetch(url, {
     headers: {
       // User-Agent is used to serve the right font format
@@ -20,8 +19,9 @@ export default async (
   }
   const ct = contentType.parse(resp.headers.get("Content-Type") ?? "");
   if (ct.type != "text/css") {
-    console.log("Response was not CSS, but was:", ct);
-    return resp;
+    return new Response(`Response was not CSS, but was: ${ct}`, {
+      status: 503,
+    });
   }
 
   try {
