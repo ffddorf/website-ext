@@ -26,7 +26,12 @@ export default async (
 
   try {
     const newCSS = rewriteURLs(await resp.text());
-    return new Response(newCSS, resp);
+    const headers = new Headers({
+      "Content-Type": "text/css; charset=utf-8",
+      "Cache-Control": resp.headers.get("cache-control") ?? "",
+      Expires: resp.headers.get("expires") ?? "",
+    });
+    return new Response(newCSS, { headers });
   } catch (e) {
     return new Response(e, { status: 500 });
   }
