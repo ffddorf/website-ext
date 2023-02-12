@@ -22,6 +22,12 @@ Hier kannst du jetzt deine Frage stellen und sehen, was uns gerade so beschäfti
 
 [Zum Forum](https://forum.freifunk.net/c/community/dusseldorf)
 
+## Matrix
+
+Im dezentralen Matrix-Chat haben wir einen eigenen Raum. Klicke hier für mehr Infos:
+
+[Zum Matrix](https://matrix.to/#/#freifunk-duesseldorf:matrix.org)
+
 ## Slack
 
 Chatte mit uns, den Aktiven und den Neulingen!
