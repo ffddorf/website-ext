@@ -1,6 +1,12 @@
 {
   "links": [
     {
+      "type": "mastodon",
+      "title": "Mastodon",
+      "icon": "fa-mastodon",
+      "url": "https://freifunk-fediverse.de/@ffddorf"
+    },
+    {
       "type": "twitter",
       "title": "Twitter",
       "icon": "fa-twitter",
