@@ -28,14 +28,6 @@ Im dezentralen Matrix-Chat haben wir einen eigenen Raum. Klicke hier für mehr I
 
 [Zum Matrix](https://matrix.to/#/#freifunk-duesseldorf:matrix.org)
 
-## Twitter
-
-Wir betreiben gemeinsam den Account @ffddorf.
-
-Freifunker aus Düsseldorf verlinken hier Neuigkeiten aus dem Forum und retweeten möglichst alles, was für Freifunk Düsseldorf relevant ist. Wenn du etwas über Freifunk Düsseldorf twitterst, dann nenne uns bitte und wir sagen es unseren Followern weiter. Und jetzt: folge uns!
-
-[Zur Timeline](https://twitter.com/ffddorf)
-
 ## Telefon
 
 Wir sind ansprechbar.
