@@ -28,14 +28,6 @@ Im dezentralen Matrix-Chat haben wir einen eigenen Raum. Klicke hier für mehr I
 
 [Zum Matrix](https://matrix.to/#/#freifunk-duesseldorf:matrix.org)
 
-## Slack
-
-Chatte mit uns, den Aktiven und den Neulingen!
-
-Slack funktioniert erst nach Anmeldung. Auf der folgenden Seite kannst du deine Mail-Adresse eintragen, zu der wir dir einen Aktivierungs-Code schicken.
-
-[Zum Slack](https://join.slack.com/t/freifunk/shared_invite/zt-eopeubzr-BzfWY55u1KpZaTKcmgS00w)
-
 ## Twitter
 
 Wir betreiben gemeinsam den Account @ffddorf.
