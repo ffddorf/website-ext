@@ -22,27 +22,11 @@ Hier kannst du jetzt deine Frage stellen und sehen, was uns gerade so beschäfti
 
 [Zum Forum](https://forum.freifunk.net/c/community/dusseldorf)
 
-## Matrix
+## Chat
 
 Im dezentralen Matrix-Chat haben wir einen eigenen Raum. Klicke hier für mehr Infos:
 
 [Zum Matrix](https://matrix.to/#/#freifunk-duesseldorf:matrix.org)
-
-## Slack
-
-Chatte mit uns, den Aktiven und den Neulingen!
-
-Slack funktioniert erst nach Anmeldung. Auf der folgenden Seite kannst du deine Mail-Adresse eintragen, zu der wir dir einen Aktivierungs-Code schicken.
-
-[Zum Slack](https://join.slack.com/t/freifunk/shared_invite/zt-eopeubzr-BzfWY55u1KpZaTKcmgS00w)
-
-## Twitter
-
-Wir betreiben gemeinsam den Account @ffddorf.
-
-Freifunker aus Düsseldorf verlinken hier Neuigkeiten aus dem Forum und retweeten möglichst alles, was für Freifunk Düsseldorf relevant ist. Wenn du etwas über Freifunk Düsseldorf twitterst, dann nenne uns bitte und wir sagen es unseren Followern weiter. Und jetzt: folge uns!
-
-[Zur Timeline](https://twitter.com/ffddorf)
 
 ## Telefon
 
