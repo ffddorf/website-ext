@@ -22,7 +22,7 @@ Hier kannst du jetzt deine Frage stellen und sehen, was uns gerade so beschäfti
 
 [Zum Forum](https://forum.freifunk.net/c/community/dusseldorf)
 
-## Matrix
+## Chat
 
 Im dezentralen Matrix-Chat haben wir einen eigenen Raum. Klicke hier für mehr Infos:
 
