@@ -59,6 +59,10 @@ sections:
 
       <img src="/images/stadtsparkasse.png" alt="Stadtsparkasse
       Düsseldorf Logo" title="Stadtsparkasse Düsseldorf" style="height: 8rem">
+
+      <img src="/images/ccc.svg" alt="Chaos Computer Club Logo"
+      title="Chaos Computer Club" style="height: 8rem">
+
   - type: heroblock
     component: hero_block.html
     title: Kooperationspartner
