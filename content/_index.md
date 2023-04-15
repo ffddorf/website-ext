@@ -68,6 +68,8 @@ sections:
       Logo" title="Landeshauptstadt Düsseldorf" style="height: 6rem">
 
       <img src="/images/ffrl-4751fc4a.svg" alt="Freifunk Rheinland Logo" title="Freifunk Rheinland e.V." style="height: 8rem">
+
+      <img src="/images/diakonie.svg" alt="Diakonie Düsseldorf Logo" title="Diakonie Düsseldorf" style="height: 8rem">
 menu:
   main:
     name: Start
