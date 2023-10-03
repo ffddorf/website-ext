@@ -11,8 +11,6 @@ sections:
       Anmeldung. Und das an immer mehr Orten. Mach mit bei Freifunk und
       erweitere das Netzwerk mit deinen eigenen Geräten!
 
-
-      <iframe src="https://player.vimeo.com/video/64814620" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
   - type: heroblock
     component: hero_block.html
     title: Nutzen
