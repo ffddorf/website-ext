@@ -6,13 +6,6 @@ menu:
     weight: 5
 layout: contact
 ---
-## Meetup
-
-Wir treffen uns monatlich zum Kennenlernen und Austauschen. Dabei möchten wir jede deiner Fragen beantworten und dir beim Umsetzen deines Projektes helfen. Komm vorbei, wir freuen uns auf dich!
-
-Termin: 2. Freitag im Monat, 17 bis 19 Uhr
-
-Ort: [LibraryLab](https://www.duesseldorf.de/stadtbuechereien/bibliotheken/librarylab.html), [Zentralbibliothek Düsseldorf](https://www.openstreetmap.org/node/9233164726)
 
 ## Forum
 
