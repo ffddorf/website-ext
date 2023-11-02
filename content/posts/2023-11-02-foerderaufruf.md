@@ -5,6 +5,8 @@ date: 2023-11-02
 layout: post
 ---
 
+![Ein WLAN Access Point in einer Unterkunft für Geflüchtete](/images/freifunk-gefluechtete.jpeg)
+
 Das Grundrecht auf digitale Teilhabe entspricht den Zielen des Freifunk Düsseldorf e.V. Es wird benachteiligten Personengruppen durch die Arbeit unseres Vereins ermöglicht, an immer mehr Orten in Düsseldorf und Umgebung einen Zugang zum Internet zu erhalten und digital zu kommunizieren. Im Rahmen des Hilfsprojektes stattet der Verein Unterkünfte für geflüchtete Menschen mit einem freien WLAN aus, das dies in allen Wohnungen in akzeptabler Qualität ermöglichen soll. Die Internetverbindung soll für breite Anwendungszwecke, insbesondere Online-Videomeetings, leistungsfähig sein.
 
 Um dieses Ziel möglichst kostengünstig zu erreichen, arbeitet der Freifunk Düsseldorf e.V. ausschließlich ehrenamtlich und verwendet Förderungen für die Anschaffungen der benötigten IT-Komponenten. In vier Unterbringungen der Stadt Düsseldorf war der Verein damit bereits erfolgreich, so dass mehr als 1000 Menschen die vollumfängliche Teilhabe ständig möglich ist.
