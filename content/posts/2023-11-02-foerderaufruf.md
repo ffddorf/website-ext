@@ -11,7 +11,7 @@ Um dieses Ziel möglichst kostengünstig zu erreichen, arbeitet der Freifunk Dü
 
 Ein Vielfaches dieser Anzahl von Menschen besitzt diese Möglichkeit noch nicht. An vielen Orten wurde bisher nur eine Basis-Versorgung umgesetzt. Dort ist Internet nur mit geringer Bandbreite und ausschließlich in einem Versammlungsraum verfügbar. Für anspruchsvollere Anwendungen als Text-Chats reicht diese Leistung nicht aus. Das WLAN ist zudem nicht empfangbar in den Wohnungen. Diese Situation soll durch das Hilfsprojekt möglichst bald verbessert werden.
 
-Für die Fortführung des Hilfsprojektes bitten wir Sie um Ihre Unterstützung. Geplant ist als nächstes die Ausstattung der Unterbringungen auf der Oberlöricker Straße und dem Karweg in Düsseldorf. Die Versorgung der dort wohnenden 600 Menschen erfordert Anschaffungen von Geräten im Wert von 18.000 Euro.
+Für die Fortführung des Hilfsprojektes bitten wir Euch um Eure Unterstützung. Geplant ist als nächstes die Ausstattung der Unterbringungen auf der Oberlöricker Straße und dem Karweg in Düsseldorf. Die Versorgung der dort wohnenden 600 Menschen erfordert Anschaffungen von Geräten im Wert von 18.000 Euro.
 
 **Habt Ihr eine Firma oder Organisation, die uns mit solchen Beträgen helfen kann?<br>Auch mit Teilbeträgen helft Ihr uns schon weiter.**
 
