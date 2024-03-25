@@ -1,6 +1,6 @@
 ---
 title: Ausbau in der Moskauer Straße
-subtitle: WLAN jetzt auch in den Inneräumen der Unterkunf
+subtitle: WLAN jetzt auch in den Inneräumen der Unterkunft
 date: 2024-03-25
 layout: post
 ---
