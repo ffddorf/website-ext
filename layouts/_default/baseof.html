@@ -9,8 +9,8 @@
         <link href="/fonts/css?family=Muli:400,400i,700,700i" rel="stylesheet">
         <link rel="stylesheet" href="{{ (resources.Get "sass/main.scss" | resources.ExecuteAsTemplate "assets/css/main.css" . | resources.ToCSS (dict "indentWidth" 4 "outputStyle" "nested" "precision" 10)).Permalink }}">
 
-        {{ $faviconPNG := resources.GetRemote "https://github.com/ffddorf/logo/releases/download/v1/ffddorf-logo.png" }}
-        {{ $faviconSVG := resources.GetRemote "https://raw.githubusercontent.com/ffddorf/logo/v1/ffddorf-logo.svg" }}
+        {{ $faviconPNG := resources.GetRemote "https://github.com/ffddorf/logo/releases/download/v2/ffddorf-logo.png" }}
+        {{ $faviconSVG := resources.GetRemote "https://raw.githubusercontent.com/ffddorf/logo/v2/ffddorf-logo.svg" }}
         <link rel="icon" href="{{ ($faviconPNG.Resize "96x96").RelPermalink }}" sizes="96x96" >
         <link rel="icon" href="{{ $faviconSVG.RelPermalink }}" sizes="any" type="image/svg+xml">
         <link rel="manifest" href="/manifest.json">
