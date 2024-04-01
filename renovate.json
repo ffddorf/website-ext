@@ -10,7 +10,8 @@
         "^layouts/.+\\.html?$"
       ],
       "matchStrings": [
-        "resources\\.GetRemote\\s+\"https://(raw\\.githubusercontent\\.com/(?<depName>[a-z0-9-]+/[a-z0-9-]+)|github\\.com/(?<depName>[a-z0-9-]+/[a-z0-9-]+)/releases/download)/(?<currentValue>[a-z0-9-]+)/[^\"]+\""
+        "resources\\.GetRemote\\s+\"https://github\\.com/(?<depName>[a-z0-9-]+/[a-z0-9-]+)/releases/download/(?<currentValue>[a-z0-9\\.-]+)/[^\"]+\"",
+        "resources\\.GetRemote\\s+\"https://raw\\.githubusercontent\\.com/(?<depName>[a-z0-9-]+/[a-z0-9-]+)/(?<currentValue>[a-z0-9\\.-]+)/[^\"]+\""
       ],
       "datasourceTemplate": "github-releases"
     },
