@@ -6,7 +6,7 @@ params:
   header:
     title: Freifunk Düsseldorf
     has_nav: true
-    logo_img: /images/freifunk-ddorf-229c545d.svg
+    logo_img: /images/ffddorf-logo.svg
   footer:
     content: Freifunk Düsseldorf e.V.
     links:
