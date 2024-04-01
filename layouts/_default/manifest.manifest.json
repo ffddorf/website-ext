@@ -1,0 +1,15 @@
+{{ $faviconPNG := resources.GetRemote "https://github.com/ffddorf/logo/releases/download/v1/ffddorf-logo.png" -}}
+{
+  "name": "Freifunk Düsseldorf e.V.",
+  "short_name": "ffddorf",
+  "icons": [
+      {
+          "src": "{{ ($faviconPNG.Resize "36x36" | fingerprint).RelPermalink }}",
+          "sizes": "36x36",
+          "type": "image/png",
+          "density": "0.75"
+      }
+  ],
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff"
+}
