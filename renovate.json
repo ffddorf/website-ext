@@ -2,5 +2,29 @@
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": [
     "config:recommended"
+  ],
+  "customManagers": [
+    {
+      "customType": "regex",
+      "fileMatch": [
+        "^layouts/.+\\.html?$"
+      ],
+      "matchStrings": [
+        "resources\\.GetRemote\\s+\"https://(raw\\.githubusercontent\\.com/(?<depName>[a-z0-9-]+/[a-z0-9-]+)|github\\.com/(?<depName>[a-z0-9-]+/[a-z0-9-]+)/releases/download)/(?<currentValue>[a-z0-9-]+)/[^\"]+\""
+      ],
+      "datasourceTemplate": "github-releases"
+    },
+    {
+      "customType": "regex",
+      "fileMatch": [
+        "^netlify\\.toml$"
+      ],
+      "matchStrings": [
+        "HUGO_VERSION\\s*=\\s*\"(?<currentValue>[^\"]+)\""
+      ],
+      "depNameTemplate": "gohugoio/hugo",
+      "packageNameTemplate": "hugo",
+      "datasourceTemplate": "github-releases"
+    }
   ]
 }
