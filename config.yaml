@@ -30,3 +30,11 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+
+outputFormats:
+  manifest:
+    name: manifest
+    baseName: manifest
+    mediaType: application/json
+    notAlternative: true
+    permalinkable: true
