@@ -23,8 +23,8 @@
       "matchStrings": [
         "HUGO_VERSION\\s*=\\s*\"(?<currentValue>[^\"]+)\""
       ],
-      "depNameTemplate": "gohugoio/hugo",
-      "packageNameTemplate": "hugo",
+      "packageNameTemplate": "gohugoio/hugo",
+      "depNameTemplate": "hugo",
       "datasourceTemplate": "github-releases"
     }
   ]
