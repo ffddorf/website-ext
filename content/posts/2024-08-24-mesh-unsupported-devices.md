@@ -70,7 +70,7 @@ Dies sind die Geräte, die das Update nicht installieren können:
 
 ## Technische Details
 
-Die Firmware des Freifunk Düsseldorf basiert auf dem Framework [Gluon](https://gluon.readthedocs.io/), das von vielen Freifunk-Communities genutzt wird, um eine komfortable Firmware bereitzustellen. Gluon wiederum basiert of [OpenWRT](https://openwrt.org/), einer sehr verbereiteten Linux-Distribution für Netzwerk-Hardware.
+Die Firmware des Freifunk Düsseldorf basiert auf dem Framework [Gluon](https://gluon.readthedocs.io/), das von vielen Freifunk-Communities genutzt wird, um eine komfortable Firmware bereitzustellen. Gluon wiederum basiert auf [OpenWRT](https://openwrt.org/), einer sehr verbereiteten Linux-Distribution für Netzwerk-Hardware.
 
 Zum Zeitpunkt dieses Posts setzen wir beim Freifunk Düsseldorf die Version `2021.1.x` von Gluon ein. Am Jahr in der Versionsnummer könnt ihr erkennen, das diese schon etwas älter ist. Die aktuelle Version ist `2023.2.x`. Wir wollen Schritt für Schritt auf die neuste Version aktualisieren, da diese neue Features mitbringt und neue Geräte unterstützt.
 
