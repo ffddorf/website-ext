@@ -1,7 +1,7 @@
 ---
 title: Neue Firmware fürs Mesh-Netzwerk
 subtitle: Bald kommt neue Software, ältere Geräte werden nicht unterstützt
-date: 2024-08-24
+date: 2024-08-26
 layout: post
 ---
 
