@@ -5,6 +5,8 @@ date: 2024-08-26
 layout: post
 ---
 
+![841er Plastikrouter mit Aufkleber "Freifunk-Router" neben einem Unifi Access-Point.](/images/841er.jpg)
+
 Um die Teilnahme am Düsseldorfer Freifunk-Mesh-Netzwerk möglichst einfach zu machen, stellen wir eine alternative Firmware bereit, die auf vielen gängigen Geräten installiert werden kann. In diesem Mini-Betriebssystem ist sämtliche Software und Konfiguration enthalten, die benötigt wird um einen Router oder Access Point zu einem "Freifunk-Knoten" zu machen. Uns ist es wichtig, dass ihr keine Netzwerk-Admins mit langjähriger Erfahrung sein müsst, um an Orten eurer Wahl Freifunk bereitzustellen.
 
 Es wird bald ein größeres Update dieser Firmware geben, das höhere Anforderungen an die Leistungsfähigkeit der Geräte stellt. Leider kann das Update auf einigen bisher unterstützten Geräten nicht installiert werden, die diese Anforderungen nicht erfüllen.
