@@ -5,21 +5,21 @@ date: 2024-08-24
 layout: post
 ---
 
-Damit die Teilnahme am Düsseldorfer Freifunk-Mesh-Netzwerk möglichst einfach ist, stellen wir eine alternative Firmware bereit, die auf vielen gängigen Geräten installiert werden kann. In diesem Mini-Betriebssytem ist alle Software und Konfiguration enthalten, die benötigt wird um einen Router oder Access Point zu einem "Freifunk-Knoten" zu machen. Uns ist wichtig, dass ihr keine Netzwerk-Admins mit langjähriger Erfahrung sein müsst um an Orten eurer Wahl Freifunk bereitzustellen.
+Um die Teilnahme am Düsseldorfer Freifunk-Mesh-Netzwerk möglichst einfach zu machen, stellen wir eine alternative Firmware bereit, die auf vielen gängigen Geräten installiert werden kann. In diesem Mini-Betriebssystem ist sämtliche Software und Konfiguration enthalten, die benötigt wird um einen Router oder Access Point zu einem "Freifunk-Knoten" zu machen. Uns ist es wichtig, dass ihr keine Netzwerk-Admins mit langjähriger Erfahrung sein müsst, um an Orten eurer Wahl Freifunk bereitzustellen.
 
-Es wird bald ein größeres Update dieser Firmware geben. Leider wird dieses Update höhere Anforderungen an die Hardware der Geräte stellen. Das bedeutet, dass einige ältere Geräte das Update leider nicht installieren können werden.
+Es wird bald ein größeres Update dieser Firmware geben, das höhere Anforderungen an die Leistungsfähigkeit der Geräte stellt. Leider kann das Update auf einigen bisher unterstützten Geräten nicht installiert werden, die diese Anforderungen nicht erfüllen.
 
-Für die technischen Details [lest unten weiter](#technische-details).
+Weiter unten erklären wir die [technischen Details](#technische-details).
 
-Was bedeutet das für euch? Wenn ihr ein Gerät betreibt, das den Mindestanforderungen nicht mehr genügt wird dieses Gerät keine Sicherheitsupdates mehr erhalten und perspektivisch aus dem Netz ausgeschlossen werden. Wann genau das passiert haben wir noch nicht festgelegt und wir werden das mit genug Vorlaufzeit bekanntgeben.
+Was bedeutet das für euch? Wenn ihr ein Gerät betreibt, das den neuen Mindestanforderungen nicht mehr genügt, wird dieses Gerät keine Sicherheitsupdates mehr erhalten werden und perspektivisch aus dem Netz ausgeschlossen. Wann genau dies passieren wird, haben wir noch nicht festgelegt. Wir werden dieses Update mit genug Vorlaufzeit bekanntgeben.
 
-Falls euer Gerät auf der Liste unten auftaucht, empfehlen wir euch, über eine Anschaffung eines neuen Geräts jetzt schon nachzudenken, damit der Betrieb eures Knotens nicht bald unterbrochen wird.
+Falls ihr eines eurer Geräte auf der Liste findet, empfehlen wir euch, über eine Anschaffung eines neuen Geräts jetzt schon nachzudenken, damit der Betrieb eures Knotens nicht bald unterbrochen wird.
 
 Wenn ihr Fragen zur Umstellung habt, kommt in [unseren Matrix-Kanal](https://matrix.to/#/#freifunk-duesseldorf:matrix.org) oder [schreibt uns eine E-Mail](mailto:kontakt@freifunk-duesseldorf.de).
 
 ### Geräte ohne Support
 
-Dies sind die Geräte, die das Update nicht installieren können:
+Dies sind die Geräte, auf denen das Firmware-Update nicht installiert werden kann:
 
 - D-Link
   - DIR-615 (C1, D1, D2, D3, D4, H1)
@@ -72,16 +72,16 @@ Dies sind die Geräte, die das Update nicht installieren können:
 
 Die Firmware des Freifunk Düsseldorf basiert auf dem Framework [Gluon](https://gluon.readthedocs.io/), das von vielen Freifunk-Communities genutzt wird, um eine komfortable Firmware bereitzustellen. Gluon wiederum basiert auf [OpenWRT](https://openwrt.org/), einer sehr verbereiteten Linux-Distribution für Netzwerk-Hardware.
 
-Zum Zeitpunkt dieses Posts setzen wir beim Freifunk Düsseldorf die Version `2021.1.x` von Gluon ein. Am Jahr in der Versionsnummer könnt ihr erkennen, das diese schon etwas älter ist. Die aktuelle Version ist `2023.2.x`. Wir wollen Schritt für Schritt auf die neuste Version aktualisieren, da diese neue Features mitbringt und neue Geräte unterstützt.
+Zum Zeitpunkt dieses Posts setzen wir beim Freifunk Düsseldorf die Version `2021.1.x` von Gluon ein. Am Jahr in der Versionsnummer könnt ihr erkennen, das diese schon etwas älter ist. Die aktuelle Version ist `2023.2.x`. Wir wollen Schritt für Schritt auf die neueste Version aktualisieren, da diese neue Features mitbringt und weitere Geräte unterstützt.
 
-Der Sprung von `2021.1.x` auf `2022.1.x` aktualisiert die Version von OpenWRT von `19.07` auf `22.03`. Mit diesem Sprung kommen viele Änderungen, unter anderem dass OpenWRT nun mehr Flash-Speicher und RAM benötigt. Das bedeutet dass ältere Geräte, die weniger Flash-Speicher und RAM haben, nicht mit der Aktualisierung kompatibel sind.
+Der Sprung von `2021.1.x` auf `2022.1.x` aktualisiert die Version von OpenWRT von `19.07` auf `22.03`. Mit diesem Sprung kommen viele Änderungen, unter anderem dass OpenWRT nun mehr Flash-Speicher und RAM benötigt. Daher sind ältere Geräte, die weniger Flash-Speicher und RAM haben, nicht mit der Aktualisierung kompatibel.
 
 ### Neue Supernodes
 
-Ein zusätzlicher Grund warum wir mindestens Gluon `2022.1.x` benutzen wollen ist ein bestimmtes Feature: _FastD L2TP Offloading_.
+Ein zusätzlicher Grund warum wir mindestens Gluon `2022.1.x` benutzen wollen ist ein bestimmtes Feature: _fastd L2TP Offloading_.
 
 Wir arbeiten seit einigen Monaten an einer neuen Generation Supernodes - das sind die großen Router, die als VPN-Endpunkte den Traffic der Freifunk-Knoten über das AS (Autonome System) des Freifunk Düsseldorf ausleiten. Bei dieser neuen Generation wollen wir einige Altlasten loswerden und das Netz um einiges schneller machen.
 
-Teil des Konzept ist es, `fastd` statt `tunneldigger` als VPN-Koordinator einzusetzen. `tunneldigger` erhält keine Updates mehr und läuft nur mit python2. `fastd` haben wir früher eingesetzt, dann aber durch `tunneldigger` ersetzt, um L2TP als Tunnel-Protokoll nutzen zu können. L2TP wird direkt im Linux-Kernel verarbeitet und ist dadurch deutlich schneller. Da `fastd` jetzt auch L2TP unterstützt können wir wieder auf eine Software wechseln, die stabil funktioniert und weiterentwickelt wird.
+Teil des Konzept ist es, `fastd` statt `tunneldigger` als VPN-Koordinator einzusetzen. `tunneldigger` erhält keine Updates mehr und läuft nur mit python2. `fastd` haben wir früher eingesetzt, dann aber durch `tunneldigger` ersetzt, um L2TP als Tunnel-Protokoll nutzen zu können. L2TP wird direkt im Linux-Kernel verarbeitet und ist dadurch deutlich schneller. Da `fastd` jetzt auch L2TP unterstützt können wir wieder auf eine Software wechseln, die stabil funktioniert und aktuell noch weiterentwickelt wird.
 
 Im Rahmen der neuen Supernode-Generation werden wir außerdem den Hosting-Standort wechseln und die Supernodes direkt an unserem Standort DUS2 betreiben, statt wie aktuell bei Hetzner. Davon versprechen wir uns deutliche Performance-Gewinne und geringere Kosten.
