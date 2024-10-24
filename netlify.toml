@@ -3,7 +3,7 @@ publish = "public"
 command = "hugo"
 
   [build.environment]
-  HUGO_VERSION = "0.133.0"
+  HUGO_VERSION = "0.136.5"
 
 [[redirects]]
   from = "/download"
