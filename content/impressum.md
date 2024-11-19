@@ -15,7 +15,7 @@ E-Mail: kontakt@freifunk-duesseldorf.de
 Vertreten durch den Vorstand:
 
 * Michael Theine-Dimt
-* Mic Szillat
+* Mik Szillat
 * Marcus Weiner
 
 Eingetragen im Vereinsregister des Amtsgerichts Düsseldorf unter der Nummer 11315
