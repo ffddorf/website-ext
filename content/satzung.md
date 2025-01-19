@@ -50,7 +50,11 @@ Es darf keine Person durch Ausgaben, die dem Zweck der Körperschaft fremd sind,
 
 # § 7 Erwerb der Mitgliedschaft
 
-Vereinsmitglieder können natürliche Personen werden. Der Aufnahmeantrag ist schriftlich oder elektronisch zu stellen. Über den Aufnahmeantrag entscheidet der Vorstand. Weitere Voraussetzung ist, dass der Mitgliedsbeitrag entrichtet ist.
+Ordentliche Mitglieder können natürliche Personen werden.
+
+Fördermitglieder können natürliche oder juristische Personen werden. Fördermitglieder besitzen kein Stimmrecht.
+
+Der Aufnahmeantrag ist schriftlich oder elektronisch zu stellen. Über den Aufnahmeantrag entscheidet der Vorstand. Weitere Voraussetzung ist, dass der Mitgliedsbeitrag entrichtet ist.
 
 Gegen die Ablehnung, die keiner Begründung bedarf, steht dem Bewerber/der Bewerberin die Berufung einer Mitgliederversammlung zu, welche dann endgültig entscheidet.
 
