@@ -50,9 +50,10 @@ Es darf keine Person durch Ausgaben, die dem Zweck der Körperschaft fremd sind,
 
 # § 7 Erwerb der Mitgliedschaft
 
-Ordentliche Mitglieder können natürliche Personen werden.
+Es gibt folgende Arten der Vereinsmitgliedschaft:
 
-Fördermitglieder können natürliche oder juristische Personen werden. Fördermitglieder besitzen kein Stimmrecht.
+1. Ordentliche Mitglieder können natürliche Personen werden.
+1. Fördermitglieder können natürliche oder juristische Personen werden. Fördermitglieder besitzen kein Stimmrecht.
 
 Der Aufnahmeantrag ist schriftlich oder elektronisch zu stellen. Über den Aufnahmeantrag entscheidet der Vorstand. Weitere Voraussetzung ist, dass der Mitgliedsbeitrag entrichtet ist.
 
