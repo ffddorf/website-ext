@@ -1,0 +1,5 @@
+{{- $css := resources.Get "sass/main.scss" |
+  resources.ExecuteAsTemplate "assets/css/main.css" . |
+  toCSS (dict "indentWidth" 4 "outputStyle" "nested" "precision" 10)
+}}
+<link rel="stylesheet" href="{{ $css.Permalink }}">
