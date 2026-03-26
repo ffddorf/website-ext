@@ -1,6 +1,7 @@
 ---
 title: Impressum
 layout: page
+robots: noindex
 ---
 Postanschrift:
 
