@@ -19,7 +19,7 @@ Das Geschäftsjahr des Vereins ist das Kalenderjahr.
 
 Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts steuerbegünstigte Zwecke der Abgabenordnung.
 
-Zweck des Vereins ist die Erforschung, Anwendung und Verbreitung von Netzwerktechnologien sowie die Vermittlung von Wissen und die Befähigung von Menschen, dafür selbstständig Sorge zu tragen, dass technische Strukturen, insbesondere freie Netzwerktechnologien, für jedermann zugänglich werden.
+Zweck des Vereins ist die Förderung des Freifunks, sowie die Erforschung, Anwendung und Verbreitung von Netzwerktechnologien. Dies bedeutet auch die Vermittlung von Wissen und die Befähigung von Menschen, dafür selbstständig Sorge zu tragen, dass technische Strukturen, insbesondere freie Netzwerktechnologien, für jedermann zugänglich werden.
 
 Zur Förderung von Forschung und Wissenschaft wird ein öffentliches und frei zugängliches Forschungsnetzwerk betrieben. Dieses Netzwerke ist ohne Anmeldung oder Registrierung frei nutzbar und ermöglicht es dem Forschenden, selber Teil des Netzwerks zu werden um tiefergehende Kenntnisse zu verteilten Netzwerktechnologien zu sammeln, als auch selber das bestehende Netzwerk zu erweitern.
 
