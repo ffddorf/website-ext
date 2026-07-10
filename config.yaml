@@ -11,6 +11,9 @@ params:
     content: Freifunk Düsseldorf e.V.
     links:
       - new_window: false
+        text: Datenschutz
+        url: /datenschutz/
+      - new_window: false
         text: Impressum
         url: /impressum/
       - new_window: false
